@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body.dark{
+	background-color: #000;
+	color: #bbb;
+}
+body.dark ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #fff;
+}
+body.dark :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: #fff;
+   opacity:  1;
+}
+body.dark ::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color: #fff;
+   opacity:  1;
+}
+body.dark :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #fff;
+}
+body.dark ::-ms-input-placeholder { /* Microsoft Edge */
+   color: #fff;
+}
+
+body.dark ::placeholder { /* Most modern browsers support this now. */
+   color: #fff;
+}
+
+body.dark h3{
+	color: #fff;
+}
+
+body.dark .vavo_tm_sidebar{background-color: #000;}
+body.dark .vavo_tm_fixed_section .my_overlay{background-color: #000;}
+body.dark .waited{background-color: #000;}
+body.dark .vavo_tm_sidebar .menu ul li a{color: #fff;}
+body.dark .arlo_fn_hero_header .name{color: #fff;}
+body.dark .arlo_fn_hero_header .job{color: #fff;}
+body.dark .arlo_fn_hero_header .lets_talk a{color: #fff;}
+body.dark .arlo_fn_hero_header .lets_talk a:before{background-color: rgba(255,255,255,.15);}
+body.dark .vavo_tm_portfolio{background-color: #111;}
+body.dark .vavo_tm_partners ul li{border-color: rgba(255,255,255,.05)}
+body.dark .vavo_tm_partners .my_text span{color: #fff;}
+body.dark .vavo_tm_news{background-color: #111;}
+body.dark .vavo_tm_news .news_inner ul li .details .title a{color: #fff;}
+body.dark .vavo_tm_news .short_info a{color: #fff;}
+body.dark .vavo_tm_contact .fields ul li input{background-color: transparent;border-color: rgba(255,255,255,.15);color: #fff;}
+body.dark .vavo_tm_contact .fields .last textarea{background-color: transparent;border-color: rgba(255,255,255,.15);color: #fff;}
+body.dark .vavo_tm_copyright{background-color: #111;}
+body.dark .vavo_tm_portfolio_single .main_details .title{color: #fff;}
+body.dark .vavo_tm_portfolio_single .main_details .left .short li span a{color: #fff;}
+body.dark .vavo_tm_portfolio_single .main_details .right p{color: #bbb;}
+body.dark .vavo_tm_portfolio_single .main_details .left .social ul li a{color: #fff;}
+body.dark .vavo_tm_portfolio_single .pagination a{color: #fff;}
+body.dark .vavo_tm_portfolio_single .pagination a:before{background-color: rgba(255,255,255,.15);}
+body.dark .vavo_tm_portfolio_single .extra_info h3{color: #fff;}
+body.dark .vavo_tm_blog_single .short_info ul li .list_inner a{color: #fff;}
+body.dark .vavo_tm_blog_single .main_infos blockquote{color: #fff;}
+body.dark .vavo_tm_blog_single .tags ul li a{color: #fff;border-color:rgba(255,255,255,.15);}
+body.dark .vavo_tm_commentbox_wrap .inner_wrap{background-color: #111;}
+body.dark .vavo_tm_commentbox_wrap .title h3{color: #fff;}
+body.dark .vavo_tm_commentbox_wrap .reply_comment_wrap .input_list_wrap .input_row input{color: #fff;border-bottom-color: rgba(255,255,255,.15);}
+body.dark .vavo_tm_commentbox_wrap .reply_comment_wrap .input_list_wrap .input_row textarea{color: #fff;border-bottom-color: rgba(255,255,255,.15);}
+body.dark .vavo_tm_commentbox_wrap .wp h3 a{color: #fff;}
+

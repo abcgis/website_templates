@@ -1,0 +1,210 @@
+@charset "utf-8";
+
+.vavo_tm_settings .colors li a.blue{background-color: #4169e1;}
+.vavo_tm_settings .colors li a.green{background-color: #66B95C;}
+.vavo_tm_settings .colors li a.brown{background-color: #ff9800;}
+.vavo_tm_settings .colors li a.pink{background-color: #ff5e94;}
+.vavo_tm_settings .colors li a.orange{background-color: #fa5b0f;}
+.vavo_tm_settings .colors li a.black{background-color: #333;}
+.vavo_tm_settings .colors li a.white{background-color: #e5e5e5;}
+.vavo_tm_settings .colors li a.purple{background-color: #9200ee;}
+.vavo_tm_settings .colors li a.sky{background-color: #00D4BD;}
+.vavo_tm_settings .colors li a.cadetBlue{background-color: #5e9e9f;}
+.vavo_tm_settings .colors li a.crimson{background-color: #e54b4b;}
+.vavo_tm_settings .colors li a.olive{background-color: #666d41;}
+.vavo_tm_settings .colors li a.red{background-color: #fe0000;}
+
+.vavo_tm_all_wrap[data-color="blue"] .cursor-inner.cursor-hover{background-color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .cursor-outer{border-color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .cursor-inner{background-color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_sidebar .menu ul li.current a{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_sidebar .menu ul li a:hover{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .arlo_fn_hero_header .name label{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_button a{background-color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_title_holder p{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_title_holder p:before{background-color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #4169e1;}
+.vavo_tm_all_wrap[data-color="blue"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #4169e1;}
+
+
+.vavo_tm_all_wrap[data-color="green"] .cursor-inner.cursor-hover{background-color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .cursor-outer{border-color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .cursor-inner{background-color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_sidebar .menu ul li.current a{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_sidebar .menu ul li a:hover{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .arlo_fn_hero_header .name label{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_button a{background-color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_title_holder p{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_title_holder p:before{background-color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #66B95C;}
+.vavo_tm_all_wrap[data-color="green"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #66B95C;}
+
+
+.vavo_tm_all_wrap[data-color="brown"] .cursor-inner.cursor-hover{background-color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .cursor-outer{border-color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .cursor-inner{background-color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_sidebar .menu ul li.current a{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_sidebar .menu ul li a:hover{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .arlo_fn_hero_header .name label{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_button a{background-color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_title_holder p{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_title_holder p:before{background-color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #ff9800;}
+.vavo_tm_all_wrap[data-color="brown"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #ff9800;}
+
+
+.vavo_tm_all_wrap[data-color="pink"] .cursor-inner.cursor-hover{background-color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .cursor-outer{border-color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .cursor-inner{background-color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_sidebar .menu ul li.current a{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_sidebar .menu ul li a:hover{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .arlo_fn_hero_header .name label{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_button a{background-color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_title_holder p{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_title_holder p:before{background-color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #ff5e94;}
+.vavo_tm_all_wrap[data-color="pink"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #ff5e94;}
+
+
+.vavo_tm_all_wrap[data-color="orange"] .cursor-inner.cursor-hover{background-color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .cursor-outer{border-color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .cursor-inner{background-color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_sidebar .menu ul li.current a{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_sidebar .menu ul li a:hover{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .arlo_fn_hero_header .name label{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_button a{background-color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_title_holder p{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_title_holder p:before{background-color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #fa5b0f;}
+.vavo_tm_all_wrap[data-color="orange"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #fa5b0f;}
+
+
+.vavo_tm_all_wrap[data-color="black"] .cursor-inner.cursor-hover{background-color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .cursor-outer{border-color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .cursor-inner{background-color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_sidebar .menu ul li.current a{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_sidebar .menu ul li a:hover{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .arlo_fn_hero_header .name label{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_button a{background-color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_title_holder p{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_title_holder p:before{background-color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #000;}
+.vavo_tm_all_wrap[data-color="black"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #000;}
+
+
+.vavo_tm_all_wrap[data-color="white"] .cursor-inner.cursor-hover{background-color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .cursor-outer{border-color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .cursor-inner{background-color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_sidebar .menu ul li.current a{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_sidebar .menu ul li a:hover{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .arlo_fn_hero_header .name label{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_button a{background-color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_title_holder p{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_title_holder p:before{background-color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #fff;}
+.vavo_tm_all_wrap[data-color="white"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #fff;}
+
+
+.vavo_tm_all_wrap[data-color="purple"] .cursor-inner.cursor-hover{background-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .cursor-outer{border-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .cursor-inner{background-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_sidebar .menu ul li.current a{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_sidebar .menu ul li a:hover{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .arlo_fn_hero_header .name label{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_button a{background-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_title_holder p{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_title_holder p:before{background-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #9200ee;}
+.vavo_tm_all_wrap[data-color="purple"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #9200ee;}
+
+
+.vavo_tm_all_wrap[data-color="sky"] .cursor-inner.cursor-hover{background-color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .cursor-outer{border-color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .cursor-inner{background-color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_sidebar .menu ul li.current a{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_sidebar .menu ul li a:hover{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .arlo_fn_hero_header .name label{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_button a{background-color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_title_holder p{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_title_holder p:before{background-color: #9200ee;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #00D4BD;}
+.vavo_tm_all_wrap[data-color="sky"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #00D4BD;}
+
+
+.vavo_tm_all_wrap[data-color="cadetBlue"] .cursor-inner.cursor-hover{background-color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .cursor-outer{border-color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .cursor-inner{background-color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_sidebar .menu ul li.current a{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_sidebar .menu ul li a:hover{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .arlo_fn_hero_header .name label{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_button a{background-color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_title_holder p{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_title_holder p:before{background-color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #5e9e9f;}
+.vavo_tm_all_wrap[data-color="cadetBlue"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #5e9e9f;}
+
+
+.vavo_tm_all_wrap[data-color="olive"] .cursor-inner.cursor-hover{background-color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .cursor-outer{border-color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .cursor-inner{background-color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_sidebar .menu ul li.current a{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_sidebar .menu ul li a:hover{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .arlo_fn_hero_header .name label{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_button a{background-color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_title_holder p{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_title_holder p:before{background-color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #666d41;}
+.vavo_tm_all_wrap[data-color="olive"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #666d41;}
+
+
+.vavo_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_sidebar .menu ul li.current a{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_sidebar .menu ul li a:hover{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .arlo_fn_hero_header .name label{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_button a{background-color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_title_holder p{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_title_holder p:before{background-color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #e54b4b;}
+.vavo_tm_all_wrap[data-color="crimson"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #e54b4b;}
+
+
+.vavo_tm_all_wrap[data-color="red"] .cursor-inner.cursor-hover{background-color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .cursor-outer{border-color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .cursor-inner{background-color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_sidebar .menu ul li.current a{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_sidebar .menu ul li a:hover{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .arlo_fn_hero_header .name label{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_button a{background-color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_title_holder p{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_title_holder p:before{background-color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_news .news_inner ul li .details .title a:hover{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_blog_single .short_info ul li .list_inner .svg{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_commentbox_wrap .wp .text a:hover{color: #fe0000;}
+.vavo_tm_all_wrap[data-color="red"] .vavo_tm_blog_single .main_infos blockquote{border-left-color: #fe0000;}
+
